@@ -1,1 +1,1 @@
-sun rises in the west (false)
+the sunrise is in the east (true)
